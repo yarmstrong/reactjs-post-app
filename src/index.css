@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.form-group.has-danger input,
+.form-group.has-danger textarea {
+  border-color: red;
+}
+
+.form-group.has-danger .text-help {
+  color: red;
+}
